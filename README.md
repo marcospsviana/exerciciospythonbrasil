@@ -30,6 +30,7 @@ Retirados do link [wiki.python.org.br/ListaExercicios](https://wiki.python.org.b
 ### ESTRUTURA SEQUENCIAL
 5. Faça um Programa que converta metros para centímetros.
 6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius. C = 5 * ((F-32) / 9).
 
 
 ### A ESTRUTURA DO PROJETO ESTÁ ORGANIZADA EM DIRETÓRIOS CONFORME AS CATEGORIAS
@@ -38,6 +39,7 @@ Retirados do link [wiki.python.org.br/ListaExercicios](https://wiki.python.org.b
         EstruturaSequencial
             5_metros_para_centimetros.py
             6_area_do_circulo.py
+            9_fahrenheit_para_celsius.py
         EstruturaDeDecisao
             *exercicio.py
         EstruturaDeRepeticao
