@@ -28,7 +28,7 @@ Retirados do link [wiki.python.org.br/ListaExercicios](https://wiki.python.org.b
 9. [ListaDeExerciciosProjetos]
 
 ### ESTRUTURA SEQUENCIAL
-1. 
+5. Faça um Programa que converta metros para centímetros.
 
 
 ### A ESTRUTURA DO PROJETO ESTÁ ORGANIZADA EM DIRETÓRIOS CONFORME AS CATEGORIAS
