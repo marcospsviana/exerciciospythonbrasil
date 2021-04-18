@@ -29,6 +29,7 @@ Retirados do link [wiki.python.org.br/ListaExercicios](https://wiki.python.org.b
 
 ### ESTRUTURA SEQUENCIAL
 5. Faça um Programa que converta metros para centímetros.
+6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
 
 ### A ESTRUTURA DO PROJETO ESTÁ ORGANIZADA EM DIRETÓRIOS CONFORME AS CATEGORIAS
@@ -36,6 +37,7 @@ Retirados do link [wiki.python.org.br/ListaExercicios](https://wiki.python.org.b
     exerciciospythonbrasil
         EstruturaSequencial
             5_metros_para_centimetros.py
+            6_area_do_circulo.py
         EstruturaDeDecisao
             *exercicio.py
         EstruturaDeRepeticao
