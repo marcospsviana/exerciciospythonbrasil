@@ -35,7 +35,7 @@ Retirados do link [wiki.python.org.br/ListaExercicios](https://wiki.python.org.b
 ```
     exerciciospythonbrasil
         EstruturaSequencial
-            *exercicio.py
+            5_metros_para_centimetros.py
         EstruturaDeDecisao
             *exercicio.py
         EstruturaDeRepeticao
