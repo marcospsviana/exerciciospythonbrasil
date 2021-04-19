@@ -41,9 +41,16 @@ unindo as práticas já realizadas com as teorias e mais práticas extras, turma
 9. ListaDeExerciciosProjetos
 
 ### Estrutura Sequencial
-1. 5 - Faça um Programa que converta metros para centímetros.
-2. 6 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
-2. 9 - Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius. C = 5 * ((F-32) / 9).
+1. 5  - Faça um Programa que converta metros para centímetros.
+2. 6  - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+2. 9  - Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius. C = 5 * ((F-32) / 9).
+3. 11 - Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+```
+     a. o produto do dobro do primeiro com metade do segundo .
+     b. a soma do triplo do primeiro com o terceiro.
+     c. o terceiro elevado ao cubo.
+
+```
 
 
 ### A Estrutura do projeto está organizada em diretórios conforme as categorias
