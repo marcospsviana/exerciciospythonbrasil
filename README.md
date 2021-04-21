@@ -51,15 +51,28 @@ unindo as práticas já realizadas com as teorias e mais práticas extras, turma
      c. o terceiro elevado ao cubo.
 
 ```
-
+4. 15 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
+```
+    a. salário bruto.
+    b. quanto pagou ao INSS.
+    c. quanto pagou ao sindicato.
+    d. o salário líquido.
+    e. calcule os descontos e o salário líquido, conforme a tabela abaixo:
+        + Salário Bruto : R$
+        - IR (11%) : R$
+        - INSS (8%) : R$
+        - Sindicato ( 5%) : R$
+        = Salário Liquido : R$
+```
 
 ### A Estrutura do projeto está organizada em diretórios conforme as categorias
-```
+``` 
     exerciciospythonbrasil
         EstruturaSequencial
-            5_metros_para_centimetros.py
-            6_area_do_circulo.py
-            9_fahrenheit_para_celsius.py
+            metros_para_centimetros_5.py
+            area_do_circulo_6.py
+            fahrenheit_para_celsius_9.py
+            salario_liquido_15.py
         EstruturaDeDecisao
             *exercicio.py
         EstruturaDeRepeticao

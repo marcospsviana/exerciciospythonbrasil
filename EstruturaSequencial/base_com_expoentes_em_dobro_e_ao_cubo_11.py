@@ -1,5 +1,5 @@
 """
-11_base_com_expoentes_em_dobro_e_ao_cubo.py
+base_com_expoentes_em_dobro_e_ao_cubo_11.py
  Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
 
      a. o produto do dobro do primeiro com metade do segundo .

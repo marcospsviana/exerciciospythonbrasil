@@ -1,5 +1,5 @@
 """
-6_area_do_circulo.py
+area_do_circulo_6.py
 Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 O programa recebera a entrada do usuário, esta entrada será atribuida a variavel de nome raio
 e retornará o equivalente a área de um círculo
