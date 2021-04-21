@@ -72,6 +72,7 @@ unindo as práticas já realizadas com as teorias e mais práticas extras, turma
             metros_para_centimetros_5.py
             area_do_circulo_6.py
             fahrenheit_para_celsius_9.py
+            base_com_expoentes_11.py
             salario_liquido_15.py
         EstruturaDeDecisao
             *exercicio.py
