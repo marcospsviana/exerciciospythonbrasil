@@ -74,14 +74,14 @@ unindo as práticas já realizadas com as teorias e mais práticas extras, turma
 
 ### A Estrutura do projeto está organizada em diretórios conforme as categorias
 
-exerciciospythonbrasil
-        EstruturaSequencial
-            [Metros para centimetros exercício 5](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/metros_para_centimetros_5.py)
-            [area do circulo exercício 6](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/area_do_circulo_6.py)
-            [Fahrenheit para Celsius exercício 9](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/fahrenheit_para_celsius_9.py)
-            [Base de expoentes exercício 11](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/base_com_expoente_11.py)
-            [Salário líquido exercício 15 ](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/salario_liquido_15.py)
-            [Loja de tintas exercício 17](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/loja_de_tintas_17.py)
+exerciciospythonbrasil\
+    - EstruturaSequencial\
+            [Metros para centimetros exercício 5](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/metros_para_centimetros_5.py)\
+            [area do circulo exercício 6](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/area_do_circulo_6.py)\
+            [Fahrenheit para Celsius exercício 9](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/fahrenheit_para_celsius_9.py)\
+            [Base de expoentes exercício 11](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/base_com_expoente_11.py)\
+            [Salário líquido exercício 15 ](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/salario_liquido_15.py)\
+            [Loja de tintas exercício 17](https://github.com/marcospsviana/exerciciospythonbrasil/blob/master/EstruturaSequencial/loja_de_tintas_17.py)\
         EstruturaDeDecisao
             *exercicio.py
         EstruturaDeRepeticao
